@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BlackGuyFawkes
+- 👀 I’m interested in HTML, CSS & JavaScript, preferably Reactjs
+- 🌱 I’m currently learning Reactjs
+- 💞️ I’m looking to collaborate on App Development and penetration testing
+- 📫 How to reach me: maduakoakachi@gmail.com
